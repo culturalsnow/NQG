@@ -1,6 +1,6 @@
 # NQG: Not Quite Gherkin
 
-![NQG](https://github.com/marksard/Keyboards/raw/master/_image/)
+![NQG](https://github.com/culturalsnow/NQG/images/NQG.jpg)
 
 An ortholinear keyboard with a configurable macro key and thumb keys that accommodate different 1U/2U combinations.
 
