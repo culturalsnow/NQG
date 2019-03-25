@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:itachoco-cache
 EELAYER 26 0
 EELAYER END
 $Descr A3 16535 11693
@@ -1226,9 +1227,6 @@ Wire Wire Line
 Connection ~ 6600 5550
 Wire Wire Line
 	6600 5550 6600 5750
-Wire Wire Line
-	5400 5050 5400 5350
-Connection ~ 5400 5350
 Wire Wire Line
 	5400 5650 5400 6050
 Connection ~ 5400 6050
