@@ -1,4 +1,4 @@
-# stonehenge30
+# NQG: Not Quite Gherkin
 
 ![NQG](https://github.com/marksard/Keyboards/raw/master/_image/)
 
