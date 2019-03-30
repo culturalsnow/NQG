@@ -33,8 +33,8 @@ enum tapdances{
 #define KC_ULCK LCTL(LALT(KC_DEL))
 #define KC_DSTP LGUI(KC_D)
 
-#define KC_ESLO LT(LOWER, KC_ESC)
-#define KC_L2RA LT(RAISE, KC_WLNG)
+#define KC_ESLO LT(_LOWER, KC_ESC)
+#define KC_L2RA LT(_RAISE, KC_WLNG)
 
 qk_tap_dance_action_t tap_dance_actions[] = {
   [TD_SCCL] = ACTION_TAP_DANCE_DOUBLE(KC_SCLN, KC_QUOT),
