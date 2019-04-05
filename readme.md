@@ -5,8 +5,7 @@
 An ortholinear keyboard with a configurable macro key and thumb keys that accommodate different 1U/2U combinations.
 
 Keyboard Maintainer: [Cultural Snow](https://github.com/culturalsnow)/[SA_EndlessGame](http://twitter.com/SA_EndlessGame)  
-Hardware Supported: NQG PCB.
-Hardware Availability: [Not Quite Gherkin on GitHub](https://github.com/culturalsnow/NQG)
+Hardware Supported: NQG PCB, available at [Not Quite Gherkin on GitHub](https://github.com/culturalsnow/NQG)
 
 Make example for this keyboard (after setting up your build environment):
 

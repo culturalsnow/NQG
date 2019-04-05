@@ -24,7 +24,6 @@ enum tapdances{
 #define KC_LOCK LGUI(KC_L)
 #define KC_ULCK LCTL(LALT(KC_DEL))
 #define KC_DSTP LGUI(KC_D)
-
 #define KC_ESLO LT(_LOWER, KC_ESC)
 
 
