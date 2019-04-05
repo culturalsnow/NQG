@@ -2,7 +2,7 @@
 
 ![NQG](https://github.com/culturalsnow/NQG/blob/master/images/NQGLayout.jpg)
 
-An ortholinear keyboard with a configurable macro key and thumb keys that accommodate different 1U/2U combinations.
+NQG (Not Quite Gherkin) is a 30% ortholinear keyboard with a macro key and dedicated row for thumb keys, made by emptystring studio.
 
 Keyboard Maintainer: [Cultural Snow](https://github.com/culturalsnow)/[SA_EndlessGame](http://twitter.com/SA_EndlessGame)  
 Hardware Supported: NQG PCB, Pro Micro  
