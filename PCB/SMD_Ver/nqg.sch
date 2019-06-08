@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L kbd:ProMicro U1
+L nqg-rescue:ProMicro-kbd U1
 U 1 1 5C8B76EA
 P 13500 2300
 F 0 "U1" H 13500 3337 60  0000 C CNN
