@@ -53,6 +53,9 @@ The Pro Micro also goes on the front of the PCB.
 Insert the pins, use some tape to hold them down and solder them from the back.  
 Then set the Pro Micro on the pins. THE SIDE WITH THE CHIPS FACES DOWN.
 
+This PCB is compatible with the Japanese-made spring header in mind, which makes the Pro Micro removable.  
+Please see the [Helix Build Guide](https://github.com/MakotoKurauchi/helix/blob/master/Doc/buildguide_en.md) on how to solder those headers.
+
 Add switches to the plate and push them into the sockets.  
 Switches for the bottom row have a different orientation than the rest.  
 Pay attention to the direction of the sockets!  
@@ -73,3 +76,9 @@ Install rubber feet based on your preference.
 Then put on your favorite keycaps and you're done!
 
 ![Keycaps](https://github.com/culturalsnow/NQG/blob/master/images/Keycaps.jpg)
+
+Make example for this keyboard (after setting up your build environment):
+
+    make emptystring/NQG:default
+
+See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
