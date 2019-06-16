@@ -28,7 +28,7 @@ The front of the PCB looks like this. The name of the keyboard is on this side.
 The back of the PCB looks like this. The name of the studio is on this side.
 ![Back](https://github.com/culturalsnow/NQG/blob/master/images/Back.jpg)
 
-Diodes are mounted on the back of the PCB. The black line faces towards the square hole/bottom row.
+Diodes are mounted on the back of the PCB. The black line faces towards the square hole/bottom row.  
 If you are using SMD diodes (SOD123), then the line on the diode will face towards the square hole/bottom row.
 
 ![Diode](https://github.com/culturalsnow/NQG/blob/master/images/Diode_Direction.jpg)
