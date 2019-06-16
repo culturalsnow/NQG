@@ -39,15 +39,15 @@ Bend their legs, insert them through the holes on the board and twist them to ma
 
 After soldering the diodes and cutting their legs off, apply solder to the pads for hotswap sockets.
 
-![Hotswap](https://github.com/culturalsnow/NQG/blob/master/images/HotswapSolder.jpg)
+![Hotswap](https://github.com/culturalsnow/NQG/blob/master/images/HotSwapSolder.jpg)
 
 Then solder the sockets on by heating the solder and pushing the socket down either with your finger or a tweezer.
 
-![Hotswap](https://github.com/culturalsnow/NQG/blob/master/images/Hotswaps.jpg)
+![Hotswap](https://github.com/culturalsnow/NQG/blob/master/images/HotSwaps.jpg)
 
 The reset button goes on the front of the PCB.
 
-![Reset](https://github.com/culturalsnow/NQG/blob/master/images/reset.jpg)
+![Reset](https://github.com/culturalsnow/NQG/blob/master/images/Reset.jpg)
 
 The Pro Micro also goes on the front of the PCB.
 Insert the pins, use some tape to hold them down and solder them from the back.
